@@ -31,7 +31,7 @@ me.say_hello()
 <br />
 
 <h2> 💻 Languages and Tools: </h2>
-<div style="background-color:#ffffff;">
+<div style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fr1group.it%2Fsfondo-bianco%2F&psig=AOvVaw0VIm22la0BD_PtMG1MKU7p&ust=1695045636026000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCtg5rnsYEDFQAAAAAdAAAAABAEpath_to_image.jpg'); background-size: cover; padding: 100px;">
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
