@@ -50,10 +50,10 @@ me.say_hello()
 
 
 <div align="center"><h2>📜 Certification: </h2>
-    - CPA: Programming Essentials in C++ <sub>Cisco</sub>\
-    - PCAP: Programming Essentials in Python <sub>Cisco</sub>\
-    - Introduction to Cybersecurity <sub>Cisco</sub>\
-    - Scientific Computing with Python <sub>freeCodeCamp</sub>\
-    - Calcolo Scientifico in Python <sub>Università di Padova</sub>\
+    - CPA: Programming Essentials in C++ <sub>Cisco</sub>  
+    - PCAP: Programming Essentials in Python <sub>Cisco</sub>  
+    - Introduction to Cybersecurity <sub>Cisco</sub>  
+    - Scientific Computing with Python <sub>freeCodeCamp</sub>  
+    - Calcolo Scientifico in Python <sub>Università di Padova</sub>  
 </div>
 
