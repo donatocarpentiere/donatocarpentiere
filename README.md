@@ -1,4 +1,4 @@
-<h1>print("Hello World, i'm Donato! 👨‍💻")</h1>
+<h1>print("Hello World, I'm Donato! 👨‍💻")</h1>
 
 ```python
 #!/usr/bin/python
