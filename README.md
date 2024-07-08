@@ -49,4 +49,7 @@ me.say_hello()
 <br />
 
 
-<div align="center"><h2>📜 Certification</h2></div>
+<div align="center"><h2>📜 Certification: </h2>
+    -CPA: Programming Essentials in C++ <h5> CISCO</h5>
+</div>
+
