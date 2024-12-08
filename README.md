@@ -55,5 +55,7 @@ me.say_hello()
     - Introduction to Cybersecurity <sub>Cisco</sub><br>
     - Scientific Computing with Python <sub>freeCodeCamp</sub><br>
     - Calcolo Scientifico in Python <sub>Università di Padova</sub><br> 
+    - PCAP: Programming Essentials in Python 2 <sub>Cisco</sub><br> 
+    - Advanced Command in Linux <sub>Coursera</sub><br>
 </div>
 
