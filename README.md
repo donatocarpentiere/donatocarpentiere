@@ -33,17 +33,14 @@ me.say_hello()
 <h2 align="center"> 💻 Languages and Tools: </h2>
 <div align="center">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="cpp" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="js" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="40" height="40"/>
 
 </div>
 
