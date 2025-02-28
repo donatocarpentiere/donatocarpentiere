@@ -43,7 +43,7 @@ me.say_hello()
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/spring.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/>
 
 </div>
 
